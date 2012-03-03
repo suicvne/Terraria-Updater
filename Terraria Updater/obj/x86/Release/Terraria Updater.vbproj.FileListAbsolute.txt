@@ -1,0 +1,206 @@
+C:\Documents and Settings\Mike\Local Settings\Application Data\Temporary Projects\Terraria Updater\bin\Release\Terraria Updater.exe
+C:\Documents and Settings\Mike\Local Settings\Application Data\Temporary Projects\Terraria Updater\bin\Release\Terraria Updater.pdb
+C:\Documents and Settings\Mike\Local Settings\Application Data\Temporary Projects\Terraria Updater\bin\Release\Terraria Updater.xml
+C:\Documents and Settings\Mike\Local Settings\Application Data\Temporary Projects\Terraria Updater\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mike\Local Settings\Application Data\Temporary Projects\Terraria Updater\obj\x86\Release\Terraria_Updater.AboutBox1.resources
+C:\Documents and Settings\Mike\Local Settings\Application Data\Temporary Projects\Terraria Updater\obj\x86\Release\Terraria_Updater.Form1.resources
+C:\Documents and Settings\Mike\Local Settings\Application Data\Temporary Projects\Terraria Updater\obj\x86\Release\Terraria_Updater.Resources.resources
+C:\Documents and Settings\Mike\Local Settings\Application Data\Temporary Projects\Terraria Updater\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Mike\Local Settings\Application Data\Temporary Projects\Terraria Updater\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Mike\Local Settings\Application Data\Temporary Projects\Terraria Updater\obj\x86\Release\Terraria Updater.exe
+C:\Documents and Settings\Mike\Local Settings\Application Data\Temporary Projects\Terraria Updater\obj\x86\Release\Terraria Updater.xml
+C:\Documents and Settings\Mike\Local Settings\Application Data\Temporary Projects\Terraria Updater\obj\x86\Release\Terraria Updater.pdb
+C:\Documents and Settings\Mike\Local Settings\Application Data\Temporary Projects\Terraria Updater\bin\Release\Terraria Updater.exe.manifest
+C:\Documents and Settings\Mike\Local Settings\Application Data\Temporary Projects\Terraria Updater\bin\Release\Terraria Updater.application
+C:\Documents and Settings\Mike\Local Settings\Application Data\Temporary Projects\Terraria Updater\obj\x86\Release\Terraria Updater.exe.manifest
+C:\Documents and Settings\Mike\Local Settings\Application Data\Temporary Projects\Terraria Updater\obj\x86\Release\Terraria Updater.application
+C:\Documents and Settings\Mike\my documents\visual studio 2010\Projects\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria Updater.exe
+C:\Documents and Settings\Mike\my documents\visual studio 2010\Projects\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria Updater.xml
+C:\Documents and Settings\Mike\my documents\visual studio 2010\Projects\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria Updater.pdb
+C:\Documents and Settings\Mike\my documents\visual studio 2010\Projects\Terraria Updater\Terraria Updater\bin\Release\Terraria Updater.exe.manifest
+C:\Documents and Settings\Mike\my documents\visual studio 2010\Projects\Terraria Updater\Terraria Updater\bin\Release\Terraria Updater.application
+C:\Documents and Settings\Mike\my documents\visual studio 2010\Projects\Terraria Updater\Terraria Updater\bin\Release\Terraria Updater.exe
+C:\Documents and Settings\Mike\my documents\visual studio 2010\Projects\Terraria Updater\Terraria Updater\bin\Release\Terraria Updater.pdb
+C:\Documents and Settings\Mike\my documents\visual studio 2010\Projects\Terraria Updater\Terraria Updater\bin\Release\Terraria Updater.xml
+C:\Documents and Settings\Mike\my documents\visual studio 2010\Projects\Terraria Updater\Terraria Updater\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mike\my documents\visual studio 2010\Projects\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria_Updater.AboutBox1.resources
+C:\Documents and Settings\Mike\my documents\visual studio 2010\Projects\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria_Updater.Form1.resources
+C:\Documents and Settings\Mike\my documents\visual studio 2010\Projects\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria_Updater.Resources.resources
+C:\Documents and Settings\Mike\my documents\visual studio 2010\Projects\Terraria Updater\Terraria Updater\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Mike\my documents\visual studio 2010\Projects\Terraria Updater\Terraria Updater\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Mike\my documents\visual studio 2010\Projects\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria Updater.exe.manifest
+C:\Documents and Settings\Mike\my documents\visual studio 2010\Projects\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria Updater.application
+C:\Documents and Settings\Mike\My Documents\Visual Studio 2010\Projects\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria_Updater.Form2.resources
+C:\Documents and Settings\Mike\my documents\visual studio 2010\Projects\Terraria Updater\Terraria Updater\bin\Release\UpdateVB 2.0.dll
+C:\Documents and Settings\Mike\my documents\visual studio 2010\Projects\Terraria Updater\Terraria Updater\bin\Release\UpdateVB 2.3.dll
+C:\Documents and Settings\Mike\my documents\visual studio 2010\Projects\Terraria Updater\Terraria Updater\bin\Release\UpdateVB.dll
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria Updater.exe
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria Updater.xml
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria Updater.pdb
+C:\Users\Admin\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria Updater.exe
+C:\Users\Admin\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria Updater.xml
+C:\Users\Admin\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria Updater.pdb
+C:\Users\Admin\Dropbox\Terraria Updater\Terraria Updater\bin\Release\Terraria Updater.exe
+C:\Users\Admin\Dropbox\Terraria Updater\Terraria Updater\bin\Release\Terraria Updater.pdb
+C:\Users\Admin\Dropbox\Terraria Updater\Terraria Updater\bin\Release\Terraria Updater.xml
+C:\Users\Admin\Dropbox\Terraria Updater\Terraria Updater\bin\Release\UpdateVB 2.0.dll
+C:\Users\Admin\Dropbox\Terraria Updater\Terraria Updater\bin\Release\UpdateVB 2.3.dll
+C:\Users\Admin\Dropbox\Terraria Updater\Terraria Updater\bin\Release\UpdateVB.dll
+C:\Users\Admin\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria_Updater.AboutBox1.resources
+C:\Users\Admin\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria_Updater.Form1.resources
+C:\Users\Admin\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria_Updater.Form2.resources
+C:\Users\Admin\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria_Updater.Resources.resources
+C:\Users\Admin\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Admin\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater\Terraria Updater\bin\Release\Terraria Updater.exe
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater\Terraria Updater\bin\Release\Terraria Updater.pdb
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater\Terraria Updater\bin\Release\Terraria Updater.xml
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater\Terraria Updater\bin\Release\UpdateVB 2.0.dll
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater\Terraria Updater\bin\Release\UpdateVB 2.3.dll
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater\Terraria Updater\bin\Release\UpdateVB.dll
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria_Updater.AboutBox1.resources
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria_Updater.Form1.resources
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria_Updater.Form2.resources
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria_Updater.Resources.resources
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria Updater.TrustInfo.xml
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria Updater.exe.manifest
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria Updater.exe
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria Updater.xml
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria Updater.pdb
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater\Terraria Updater\bin\Release\Terraria Updater.exe
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater\Terraria Updater\bin\Release\Terraria Updater.pdb
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater\Terraria Updater\bin\Release\Terraria Updater.xml
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater\Terraria Updater\bin\Release\UpdateVB 2.0.dll
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater\Terraria Updater\bin\Release\UpdateVB 2.3.dll
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater\Terraria Updater\bin\Release\UpdateVB.dll
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria_Updater.AboutBox1.resources
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria_Updater.Main.resources
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria_Updater.Form2.resources
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\Terraria_Updater.Resources.resources
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater\Terraria Updater\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Admin\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria Updater.exe
+C:\Users\Admin\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria Updater.xml
+C:\Users\Admin\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria Updater.pdb
+C:\Users\Admin\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\Terraria Updater.exe
+C:\Users\Admin\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\Terraria Updater.pdb
+C:\Users\Admin\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\Terraria Updater.xml
+C:\Users\Admin\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\UpdateVB 2.0.dll
+C:\Users\Admin\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\UpdateVB 2.3.dll
+C:\Users\Admin\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\UpdateVB.dll
+C:\Users\Admin\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.AboutBox1.resources
+C:\Users\Admin\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Main.resources
+C:\Users\Admin\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Form2.resources
+C:\Users\Admin\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Resources.resources
+C:\Users\Admin\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Admin\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria Updater.exe
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria Updater.xml
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria Updater.pdb
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\Terraria Updater.exe
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\Terraria Updater.pdb
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\Terraria Updater.xml
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\UpdateVB 2.0.dll
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\UpdateVB 2.3.dll
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\UpdateVB.dll
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.AboutBox1.resources
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.ContentHowTo.resources
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Main.resources
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Form2.resources
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Resources.resources
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.TroubleShootingGuide.resources
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Mike\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Admin\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.ContentHowTo.resources
+C:\Users\Admin\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.TroubleShootingGuide.resources
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria Updater.exe
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria Updater.xml
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria Updater.pdb
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\Terraria Updater.exe
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\Terraria Updater.pdb
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\Terraria Updater.xml
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\UpdateVB 2.0.dll
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\UpdateVB 2.3.dll
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\UpdateVB.dll
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.AboutBox1.resources
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.ContentHowTo.resources
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Main.resources
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Form2.resources
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Resources.resources
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.TroubleShootingGuide.resources
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Update.resources
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Mac OSX Leopard\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Admin\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Update.resources
+C:\Documents and Settings\MrMiketheripper\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria Updater.exe
+C:\Documents and Settings\MrMiketheripper\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria Updater.xml
+C:\Documents and Settings\MrMiketheripper\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria Updater.pdb
+C:\Documents and Settings\MrMiketheripper\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\Terraria Updater.exe
+C:\Documents and Settings\MrMiketheripper\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\Terraria Updater.pdb
+C:\Documents and Settings\MrMiketheripper\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\Terraria Updater.xml
+C:\Documents and Settings\MrMiketheripper\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\UpdateVB 2.0.dll
+C:\Documents and Settings\MrMiketheripper\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\UpdateVB 2.3.dll
+C:\Documents and Settings\MrMiketheripper\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\UpdateVB.dll
+C:\Documents and Settings\MrMiketheripper\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\MrMiketheripper\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.AboutBox1.resources
+C:\Documents and Settings\MrMiketheripper\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.ContentHowTo.resources
+C:\Documents and Settings\MrMiketheripper\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Main.resources
+C:\Documents and Settings\MrMiketheripper\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Form2.resources
+C:\Documents and Settings\MrMiketheripper\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Resources.resources
+C:\Documents and Settings\MrMiketheripper\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.TroubleShootingGuide.resources
+C:\Documents and Settings\MrMiketheripper\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Update.resources
+C:\Documents and Settings\MrMiketheripper\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\MrMiketheripper\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\Terraria Updater.exe
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\Terraria Updater.pdb
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\Terraria Updater.xml
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\UpdateVB.dll
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.AboutBox1.resources
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Container.resources
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.ContentHowTo.resources
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Main.resources
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Changelog.resources
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Mods.resources
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Resources.resources
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.PathChecker.resources
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.TroubleShootingGuide.resources
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Update.resources
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria Updater.exe
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria Updater.xml
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria Updater.pdb
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.npcs.resources
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria Updater.exe
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria Updater.xml
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria Updater.pdb
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\Terraria Updater.exe.config
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\Terraria Updater.exe
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\Terraria Updater.pdb
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\Terraria Updater.xml
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\UpdateVB.dll
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.AboutBox1.resources
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Container.resources
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.ContentHowTo.resources
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Main.resources
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Changelog.resources
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Mods.resources
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Resources.resources
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.npcs.resources
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.PathChecker.resources
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.TroubleShootingGuide.resources
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Tut.resources
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\Terraria_Updater.Update.resources
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Mikey\My Documents\Dropbox\Terraria Updater Source\Terraria Updater\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Mike\Dropbox\Terraria Updater Source\Terraria Updater\bin\Release\Terraria Updater.exe.config

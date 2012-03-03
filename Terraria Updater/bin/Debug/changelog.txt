@@ -1,0 +1,589 @@
+Version 1.0.6 Changes-----------------------------------------------------------------------------------------
+
+NPCs
+
+    New Enemy : Spike Ball (An Immortal Enemy.)
+    New Enemy : Blazing Wheel (An Immortal Enemy.)
+    New Enemy : Dungeon Slime (Contains Golden Keys)
+    New Enemy : Goblin Scout
+    Hornets in the Underground Jungle now shoot stingers. These stingers have a 1 in 3 chance of poisoning their target for 10 seconds.
+    EoW is no longer “defeated” when he flees.
+    Cursed Skulls now now have a chance to apply the Cursed debuff.
+    Npcs that are far from home and try to turn to return home will no longer twitch left and right when stuck.
+    Bats, Harpy and Demon AI has been improved to prevent wall hugging.
+    Slimes when in water will now turn around when they have no where to go.
+    Man Eaters and Snatchers now have less HP, and are drawn above tiles rather than behind.
+    Lava Slimes no longer spawn lava when killed.
+    Meteor Heads now move much slower but do a lot more damage.
+    Bone Serpents now have a new death sound, and their hit-box has been fixed.
+    Hornets are correctly now unable to enter water.
+    Vultures should no longer ‘float’ if the sand they are perched on falls from beneath them.
+    NPC’s furniture requirements have changed to work with new items.NPCs now requires one “comfort object” (Chair, Throne, Bench, Bed, Toilet) and one “flat surface furniture” (Table, Dresser, Workbench, Tub, Bookcase) for a room to be complete before they will make it their home.
+
+
+Items
+
+    New Item : Shadow Key
+    New Item : Golden Key
+    New Item : Shadow Chest (These require the Shadow Key)
+    New Item : Obsidian Background Walls
+    New item : Mud Background Walls
+    New Item : Jungle Spore (Replaces Jungle roses former crafting uses.)
+    New Item : Tattered Cloth
+    New Item : Battle Standard (Allows for manual starting of the Goblin Invasion)
+    New Item : Piano
+    New Item : Loom (Crafting Station, Now required for crafting most clothes from silk.)
+    New Item : Bench
+    New item : Dresser
+    New Item : Bathtub
+    New Item : Red Banner
+    New Item : Green Banner
+    New Item : Blue Banner
+    New Item : Yellow Banner
+    New Item : Lamp Post
+    New Item : Tiki Torch
+    New Item : Barrel
+    New Item : Chinese Lantern
+    New Item : Cooking Pot
+    New Item : Safe (A separate private storage from the Piggy Bank.)
+    New Item : Skull Lantern
+    New Item : Trash Can
+    New Item : Candelabra
+    New Item : Pink Jar
+    New Item : Mug
+    New Item : Beer Keg
+    New Item : Beer
+    New Item : Bookcase
+    New Item : Throne
+    New Item : Bowl
+    New Item : Bowl of Soup
+    New Item : Toilet
+    New Item : Grandfather Clock
+    New Item : Statue
+    Wooden Tables, Doors and Workbenches now have improved looking graphics.
+    Jungle Rose is now a rarer drop and no longer used to craft.
+    Bottled water can no longer be crafted by standing near lava.
+    Suspicious Looking Eyes will now sometimes be found in chests.
+    Several Magic items have been rebalanced.
+    Fire of Flower now does more damage, and costs more mana.
+    Flamelash, Sunfury, and Flower of Fire are no longer dropped, they are now found in shadow chests in the underworld.
+    Band of Star Power now adds 20 mana to your maximum, and no longer adds mana regeneration.
+    Orb of Light now moves slower and is now listed as a buff that you can remove if you so desire and also know its remaining duration.
+    Magic missile is now quicker and is ‘launched’ when you release the mouse button, rather than disappearing.
+    Flamelash is ‘launched’ when you release the mouse button, rather than disappearing.
+    Meteor Armor and Molten Armors no longer glow.
+    Grappling Hooks can no longer be spam shot, you must now wait until your previous shot lands or returns before you can throw another.
+    Starfury now does a bit more damage, requires more mana, and now works underground. If a star is spawned inside a wall, it will be able to travel until it reaches open space and then becomes ‘solid’ colliding with the next wall it hits.
+    Glow sticks price reduced. And are now a bit brighter.
+    Coins now leave a sparkle trail while moving.
+    Night Owl Potion now works correctly.
+    Two of the same type of accessories may no longer be equipped at once.
+    Armors are now more ‘Class Type’ specific and their stats have been set accordingly.
+        Meteor Armor - Buffs Magic Damage and Set Bonus : Space Gun 0 Mana Cost.
+        Molten Armor - Set Bonus : Melee Damage
+        Shadow Armor - Buffs Melee Attack Speed and Set Bonus : Movement Speed.
+        Necro Armor - Buffs ranged damage and Set Bonus : Reduces Ammo Consumption.
+        Jungle Armor - Buffs Max Mana, Magic Crit Chance and Set Bonus : Reduced Mana Usage
+    Potions now offer less HP on use, and their cool-down is now a minute.
+    Placing background walls is more simple, as 1 block holes are automatically filled in.
+    ALL placed background walls are now considered ‘house walls’. (Yes even Dirt and Dungeon walls.)
+    The Mini-shark now has a 33% chance that shooting the weapon will not take ammo. So it does not consume as much ammo to use.
+    Flintlock Pistols and Muskets are now a bit stronger.
+    Flails now have a different mechanic. You can ‘spin’ them by pressing left and right fast over and over after they have been thrown while holding down the mouse button.
+    Piggy Banks should no longer float when the ground beneath the table it is on is removed from beneath them.
+    Fish Bowl’s recipe has been changed to require Bottled Water, rather than just an empty Bottle.
+    Ash and Mud no longer fall due to gravity.
+
+
+Server and Clients
+
+    The IP screen now shows the seven most previous IP’s you’ve joined, to allow you to quick connect to your favorite or commonly played servers.
+    Improved Server Syncing
+
+
+Game Interface
+
+    There is now an option to disable pickup text.
+    When creating a character, there is now an option for ‘Male/Female’, this is used to change the characters voice. This way, any hairstyle can be used for either gender.
+    When choosing your hairstyle, you may now right click to cycle through the hair selections backwards.
+    New Hot-key for grappling hooks. (Defaults to E)
+    Hot-bar Slots now show their Hot-key number.
+    The Mana Bar is now Blue, and text for gaining health is now green.
+    Interface Boxes are now colored differently. Inventory is Blue, Equip is Green, Craft is Purple.
+    Hot-keys for Mana and Healing Potions now work correctly with Rejuvenation potions.
+    Some tool-tips now have more specific details about item uses.
+    Right clicking on an accessory or a piece of armor in your inventory will auto-equip it.
+    Newly obtained items will now be placed starting in the bottom right of your inventory rather than the previous top left.
+    There is now a Trash Can slot in the inventory. Placing an item here will destroy it. However the item will be saved in memory until another item is destroyed, allowing you to retrieve it if you wish. Holding Shift and Clicking and Item will move it to your trashcan.
+    When at a chest or piggy bank, there is now an option to loot all. This will take all items inside the chest/bank if there is room, If not it will take all items starting from top left.There is also a Quick Stack option for the reverse effect. If the chest you are viewing has items stored in it that you are also carrying, this option will stack those items into the chest combining stored and carried stacks.
+    When at a chest or piggy bank, there is now an option to Deposit all. This will take all items not in your hot bars and starting from the bottom right slot, place each item that will fit into the chest or bank. It will stop when space runs out.
+    It is no longer possible to drop items through the spaces between boxes in the inventory
+    Some Tools now give you an idea in their tool-tip of what they can mine. Example -  “Can mine Meteorite”.
+    There are now four ammo slots. Ammo may be placed here to de-clutter your inventory. Weapons will take ammo from these slots first, and will then take from any in the inventory after they are empty.
+    Hot-Bar slots that have a ranged weapon on them will show the current used ammo count on them.
+    There is now a toggle in your inventory, that when clicked, will LOCK your hot-bar and not allow you to change your currently used hot-bar item by clicking it with the mouse, only the 1 - 9 hot -keys and mouse-wheel will scroll them at that point.
+    Hotkeys can now be used to change selected item when the inventory is open.
+    Shops now sell items back to you. Holding Shift and Clicking and Item while at a shop will quick-sell it.
+    You can now quickly clear and cancel your chat message by hitting escape.
+    ‘Misc’ in Character Creation color selection, has been renamed “Shoes”.
+
+
+Misc
+
+    New Feature : Critical Hits. There is now a small chance you will do more damage to an enemy
+    New Feature : Damage Types. Damage is now separated into Melee, Ranged and Magic damages. These will be used going forward for a few different systems, such as buffs, de-buffs. Items will list what kind of damage they do in their tool-tip so you know what will be effected by what buff.
+    New Music : Corruption.
+    Added 19 new hairstyles.
+
+    There are now 3 difficulty modes that are set when creating a character.
+        Softcore - Drop coins on death, keep max hp and mana values.
+        Mediumcore - Drop all items on death, keep max hp and mana values.
+        Hardcore - Drops all Items and deletes your character on death, requiring you to start a new character. On death you will become a ghost that can not interact with the world until you log out.
+
+    Players now heal automatically when ‘not in combat’. You are flagged as in combat when you are damaged by anything. The longer you have spent after getting hurt will increase your hp regen speed slightly.
+    Mana now recharges on its own when you are not casting. Slowly if you are moving, and fast if you stand still.
+
+    Hellstone no longer produces light and is more rare.
+    Hellstone now spawns lava when it is mined, but only in the underworld.
+    Cacti no longer cause knock-back making running through a desert less of a hassle.
+    Cacti no longer destroy blocks as they grow.
+    Some sounds have a randomizing pitch change (like sword swinging), to make them have more variance.
+    Optimized “Finding Tile Frames”, so worlds should load faster
+    There are new sounds for the following actions/events
+        Talking to an NPC
+        Mana Becoming Full (also shows a purple sparkle on player)
+        Using Water Bolt, Flamelash, and Flower of Fire
+        Starting to Drown.
+
+    Melee speed increase items are now calculated correctly.
+    Thorns are now destroyed after you touch them and receive damage.
+    Corrected some spelling errors and also the placement of ‘%’ in some potion tool-tips.
+    Added a bunch of new randomized game subtitle captions.
+
+
+World Gen
+
+    More Gems spawn in the jungle.
+    Hell Houses now spawn differently. A worlds Hell Houses can rarely spawn as all obsidian, and they can now get really tall.
+    Underground Jungles now have a Mud Background
+    Dungeons should no longer spawn in the ocean.
+    Deserts now spawn slightly further away from spawn.
+    Dungeons now spawn with more spikes and less lighting.
+    Underworld Ash is now filled with more lava pockets, making mining Hellstone more of a challenge.
+    Some items no longer spawn in Dungeon, these were meant for non-dungeon areas.
+
+
+Version 1.0.5 Changes-----------------------------------------------------------------------------------------
+
+NPCs
+
+    * New Enemy - Lava slime, this enemy leaves behind lava on death
+    * New Enemy - Hellbat
+    * New Enemy - Demon
+    * New Enemy - Jellyfish (Two variations, Pink and Blue)
+    * New Enemy - Shark
+    * New Enemy - Vulture
+    * New Enemy - Crab
+    * New Enemy - Antlion
+    * Changed the way worm enemies spawn.
+    * Bats, Hornets, and Eyeballs no longer enter water.
+    * Slimes now float in water.
+    * Only one giant slime will appear at a time.
+    * The Guide now seems quite knowledgeable in what an item can be made into if you show it to him.
+    * NPC shops now sell some items on certain nights, or after certain events.
+    * Devourers should no longer gain random other enemies as its head.
+    * The Nurse now charges the correct amount for healing.
+    * Bats now have a death sound effect.
+    * Talking to the old man at night will give the player a warning now before summoning the dungeon boss.
+    * Entering the dungeon before defeating Skeletron now spawns a new NPC instead of Skeletron’s head. This should fix several issues with that event.
+    * Enemy coin drops have been adjusted.
+    * Man Eaters and Snatchers are no longer effected by knockback and can attack through walls.
+    * Eater of Souls’ and Hornet AI has been improved.
+    * Enemies now take up different amount of *slots* depending on AI style and strength.  This will help balance conditions when there are lots of strong monsters spawned at once, such as Imps and Bone Serpents.
+    * Fish are no longer upside-down when out of water.
+    * Green slimes have been weekend so that start players can deal with them more easily.
+    * Slimes and Flying enemies no longer make a splash sound when hitting water.
+    * Items of “Blue Rarity” or higher no longer burn up in lava.
+    * Burning Skull has been renamed to Cursed Skull, and given different AI.
+    * Enemy caster’s have had their rate of fire slowed down.
+    * Meteor heads have less health, do more damage, and move slower.
+    * There are now slight size variations to the Eater of Souls and the Angry Bones.
+    * Skeletron has less defense and health.
+
+
+Items
+
+    * New Feature : Buffs activated by Using Potions. Right click a buff to remove it from yourself.
+    * New Item : Hellfire Arrow.
+    * New Item : Sandgun.
+    * New Item : Guide Voodoo Doll.
+    * New Vanity Items : Familiar Wig, Shirt, Pants to be worn in Social slots to “Hide your Armor”.
+    * New Vanity Items : Doctors Shirt and Pants.
+    * New Item : Diving Helmet.
+    * New Item : Night’s Edge
+    * New Item : Dark Lance
+    * New Item : Demon Scythe
+    * New Item : Trident
+    * New Item : Coral
+    * New Item : Cactus
+    * New Item : Spear
+    * New Item : Glowstick
+    * New Item : Sticky Glowstick
+    * New Item : Throwing Knife
+    * New Item : Poison Knife
+    * New Item : Silver Bullet
+    * New Item : Wooden Boomerang
+    * New Item : Blowpipe
+    * New Item : Seed (Ammo for Blowpipe)
+    * New Item : Obsidian Skin Potion
+    * New Item : Regeneration Potion
+    * New Item : Swiftness Potion
+    * New Item : Gills Potion
+    * New Item : Defense Potion
+    * New Item : Mana Regeneration Potion
+    * New Item : Magic Power Potion
+    * New Item : Featherfall potion
+    * New Item : Spelunker Potion
+    * New Item : Invisibility Potion
+    * New Item : Shine Potion
+    * New Item : Night Owl Potion
+    * New Item : Battle Potion
+    * New Item : Thorns Potion
+    * New Item : Archery Potion
+    * New Item : Water Walking Potion
+    * New Item : Hunter Potion
+    * New Item : Gravitation Potion
+    * New Item : Daybloom
+    * New Item : Daybloom Seeds
+    * New Item : Moonglow
+    * New Item : Moonglow Seeds
+    * New Item : Blinkroot
+    * New Item : Blinkroot Seeds
+    * New Item : Deathweed
+    * New Item : Deathweed Seeds
+    * New Item : Waterleaf
+    * New Item : Waterleaf Seeds
+    * New Item : Fireblossom
+    * New Item : Fireblossom Seeds
+    * New Item : Shark Fin
+    * New Item : Feather
+    * New Item : Gold Chest
+    * New Item : Bottled Water
+    * New Item : Tombstone
+    * New Item : Illegal Gun Parts
+    * New Item : Antlion Mandable
+    * The Silver Short swords recipe has been corrected, it is now craftable.
+    * Torches and candles no longer work when wet.
+    * Destroying a placed sign while you are reading it will no longer cause your character to become frozen.
+    * Rocket boots no longer require mana.  They will provide lift for 1 second and recharge every time the player touches the ground or uses grapple. Lift speed has been slightly increased to offset loss of long flights. This makes the boots more viable for caster Characters.
+    * The explosion animation for bombs is now correctly displayed in multiplayer.
+    * There is now a message pop-up when the player receives an item.
+    * Filled Buckets may no longer be emptied into solid ground.
+    * Pots in the underworld now have a chance to drop hellfire arrows.
+    * Handgun and Phoenix Blaster have been reduced in size.
+    * Lowered the knockback of Muramasa.
+    * Reduced the damage of the Blue Moon.
+    * Flintlock Pistol and Musket have increased damage.
+    * Only normal trees drop acorns.
+    * Falling sand clumps are no longer carried by magic missiles/flamelash.
+    * Jungle armor is no longer a drop.  It is a craftable set.
+    * Magic Mirror now requires mana to be used.
+    * Harpoon and Maces now correctly show the player’s arm animation.
+    * The arms dealer will sell unholy arrows at night after the Eater of Worlds has been defeated.
+    * Space Gun does more damage, but only penetrates 2 enemies.
+
+
+Server
+
+    * Spam detection is less aggressive.
+    * Increase multiplayer security.
+    * Fixed a bug that could crash the server when the max amount of clients are connected.
+    * Added an option to enable additional cheat protection for servers.
+    * Servers now hibernate when no players are connected.
+    * Blood Moons now stop correctly if time is changed to day by the server.
+
+
+Misc
+
+    * Corrected some spelling and grammar mistakes.
+    * Lighting code has been optimized to increase performance.
+    * Mud and ash now have a chance to fall like sand when struck.
+    * World update rate has been reduced slightly.
+    * Water now evaporates when it reaches the underworld.
+    * Slowed the rate of plant growth.
+    * Hardcore is now an option when creating a new player.  Hardcore players are gone for good after dying.
+    * The Jungle now has its own music track.
+    * Vines that refused to grow longer than 1 tile in length while underwater, will now grow correctly.
+    * Pot graphic was brightened to make it more visible.
+    * Plants growing out of a clay pot can no longer be cut with a weapon. The new alchemy plants can be grown in these pots.
+    * Gems, ore, and gold chests now have a sparkle effect.
+    * Giant glowing mushrooms will now grow back over time.
+    * The player now starts out with a copper shortsword.
+    * Dungeon bricks and walls have had their brightness reduced.
+
+
+Game Interface
+
+    * Upon death, A more specific death message will appear for other players, so they know how you died.
+    * The crafting and armor interface text will fade out when an item tooltip is in front of it.
+    * The Hot Bar now shows the name of the selected item.
+    * PVP now requires 5 seconds between Activation and Deactivation and visa versa to prevent PVP spam. The same cooldown is in effect for Team Changing as well.
+    * Added hotkeys for quickly drinking healing, mana, and buff potions.The healing/mana potion you use is based on the same principle arrows are. Top-Left most item first. The buff potions are all used at once.
+    * Holding right click on an empty space in the inventory will no longer make a sound effect as if something was there to be picked up.
+    * Defense totals are now shown in your inventory.
+
+
+World Gen
+
+    * Tweaked the way sand is created during world gen. (Requires new world.)
+    * Oceans are now slightly larger and generation layout has been improved. (Requires new world.)
+    * Cactus now grow on sand.
+    * Coral now grows in the ocean.
+    * Chests can now spawn near the surface of the world. They will contain treasure that new players may find useful.  (Requires new world.)
+    * Chests and pots now contain loot based on the level they spawn in. (Requires new world.)
+    * Gold chests will now spawn in some parts of the world. (Requires new world.)
+    * Corrupt chasms have less of a chance to spawn on jungles.  They also now have a cave connecting most of the chasms. (Requires new world.
+    * Traces of demonite are created during world gen. (Requires new world.
+    * Surface jungles have been enlarged, and will override deserts. (Requires new world.
+
+
+Version 1.0.4 Changes-----------------------------------------------------------------------------------------
+
+Items
+
+    * Added Feature! - Social Slots. All normal armor and vanity items can be placed here to use their graphical appearance in place of equipped gear without overriding their stat gains.
+    * New Vanity Items - Tuxedo Shirt and Pants
+    * New Vanity Items - Plumber Outfit and Hat
+    * New Vanity Items - Hero Outfit and Hat
+    * New Vanity Item - Bunny Hood
+    * New Vanity Item - Fish Bowl
+    * New Vanity Item - Top Hat
+    * New Vanity Items - Archaeologist's Outfit and Hat
+    * New Vanity Item - Ninja Outfit.
+    * New Vanity Item - Red Hat.
+    * New Vanity Item - Summer Hat
+    * New Vanity Item - Robe
+    * New Vanity Item - Robot Hat
+    * New Vanity Item - Gold Crown
+    * New Item - Leather
+    * New Item - Green Dye
+    * New Item - Black Dye
+    * You can now wear the Jungle Rose in your hair
+    * The Water Candle’s enemy spawn rate increase effect now works correctly when held
+    * Some items that were missing ‘lore text’ in their tool-tips now have them.(Breathing Reed,Grappling Hook Jungle Rose.)
+    * Ammo items are now listed as Ammo in their tool-tip and Equipable Items that offer no stat bonus list as Vanity Items in their tool-tip. Items used in any recipe now list as Materials, in their tool-tip.
+    * The Magic Hat now offers 2 Defense to its wearer and the Empty Bucket now offers 1 Defense to its wearer.
+    * Dungeon Blocks now require at least a Nightmare Pick to mine, unless they are near the spawn location, where they can be mined by any pick.
+    * Phoenix Blaster has had a reduction of stats to balance better with other items of its tier.
+    * Gem, Mushroom and Bottle sell values have been reduced.
+    * Hell Forges above the rock layer can be moved with any hammer, but below require a 60% power hammer or stronger.
+    * Angel Statues are now more rare of a find.
+
+
+NPCs
+
+    * New NPC - Bunny
+    * New NPC - Goldfish (Is also an Item)
+    * New Enemy - Corrupt Bunny
+    * New Enemy - Corrupt Goldfish
+    * New Enemy - Piranha
+    * New Enemy - Harpy
+    * New Random Mini- Boss - King Slime
+    * New Enemy - Bat
+    * New Enemy - Jungle Bat
+    * New Enemy - Jungle Slime
+    * New Enemy - Snatcher
+    * New Rare Enemy - Dr. Bones
+    * New Rare Enemy - The Groom
+    * New NPC - A Clothier will now move into your town when the conditions are met.
+    * Enemy spawn distance has been pushed back to the maximum resolution to ensure that they will never spawn on the screen.
+    * Enemy spawn rates have been adjusted to account for the increased spawn distance.
+    * Enemy projectiles no longer drop hearts or stars when killed by the player.
+    * The Eater of Worlds now has Higher HP, Def and Dmg, making battling him more difficult.
+    * Hornets no longer appear as if they are about to flip over while flying.
+    * The Dead Miner is now a bit stronger.
+    * Tim’s spawn chance has been reduced.
+
+
+Player
+
+    * Players now have 1 second of invulnerability after they spawn.
+    * The eat/drink animation now plays correctly.
+
+
+World-Gen
+
+    * Surface Jungle’s are now possible on mud that is on the surface. Jungle trees will auto-grow on their own, as acorns are not usable on the jungle grass.
+    * Chasms are now less frequent to appear, but always have an orb.
+    * Mud now ‘blends’ graphically with dirt, rather than stone to add for a more crisp look in Jungles.
+    * Jungle plants now grow underwater.
+
+
+Multiplayer
+
+    * Increased client side security.
+    * Selecting summon items will no longer cause monsters to summon.
+    * Players with a name over 20 characters will now get booted from the server.
+    * Added some minor anti-grief protection.
+    * Fixed a bug that would cause the client to attempt to summon an NPC during a multiplayer game and crash.
+    * Added the -host command line parameter to the client.
+
+
+Server
+
+    * Improved server timing, which should help reduce lag.
+    * Added several new command line and config options. These are listed in serverconfig.txt
+    * Servers will now output to crashlog.txt before crashing, allowing for more specific bug reporting.
+    * Clients will now output to client-crashlog.txt before crashing, allowing for more specific bug reporting.
+
+
+Misc.
+
+    * Screen resolutions now have limits of 800x600 minimum and 1920x1200 maximum.
+    * Added an option that will pause the game while talking to an NPC or opening your inventory in single player.  It defaults to off.
+    * Added an option to automatically save the world every 10 minutes.  Defaults to on.
+    * Added a prompt to load a world backup if the current world is corrupt.
+    * Added a check to determine if a world file was loaded successfully.
+    * Attempting to Launch the game from the Terraria.exe, will now inform you to launch via Steam rather then doing nothing at all with no indication of why.
+    * Backing out of the port selection screen now plays the correct sound.
+    * Setting options now correctly align with the center of the screen in all resolutions.
+    * The settings menu has been reorganized.  All video related options have their own menu
+    * The “Tink” sound now has a more dull sound.
+    * The Re-Logic splash screen, now scales correctly in other resolutions.
+
+
+Version 1.0.3 Changes-----------------------------------------------------------------------------------------
+
+Player
+
+    * Players can no longer repeatedly double jump after touching the top of the world.
+
+
+Items
+
+    * NEW ITEM - Black Lens.
+    * NEW ITEM - Sunglasses.
+    * NEW ITEM - Jungle Armor (This has replaced Cobalt Armor.)
+    * NEW ITEM - (RARE and SECRET Item for casters) Go on! Find it!
+    * Fixed a bug that prevented Underground Jungle Seeds from spawning.
+    * Using the Cloud in a Bottle will now correctly reset fall distance.
+    * Set bonuses that provide more defense, now correctly match their tool-tip.
+    * All armor inventory icons have been improved.
+    * All player armor graphics have been improved.
+    * Iron, gold, meteor, and bone helmets have been changed graphically.
+    * Molten armor’s overall defense has been reduced.
+    * Meteor armor’s set bonus now reduces Space Gun mana cost to 0.
+    * Several magic items have had their damage increased.
+
+
+NPCs
+
+    * Added two new rare enemies that can both be found underground.
+    * The Demolitionist is now also triggered to arrive when the players have Sticky Bombs and Grenades in their inventory.
+    * All Skeleton graphics have been changed.
+    * The Guide now has hit and death effects.
+    * The Guide can now be killed by hostile NPCs.
+
+
+World
+
+    * Trees now become corrupt instead of being destroyed when touching the corruption. And the new corrupt trees become un-corrupted upon purification.
+
+
+Server / Multiplayer
+
+    * Created a console server with no video card requirement. Type help in the console for a full list of server commands.
+    * Increased client side multi-player security, this should help in the battle against broken character files.
+    * There is now a host and play option in the client, that will auto connect you to your own server world upon its creation.
+    * Corrected a bug that was causing the Server to send out liquid as water when it should have been lava.
+    * Clients are now able to connect to ports other than 7777.
+    * Slimes are synced better on multiplayer games.
+    * Accessories now correctly sync between players.
+    * Fixed a bug that would cause the player to get stuck on "Receiving Tile Data" when their spawn is placed near the world edge.
+    * Added -join <ip>, -port <port>, and -pass <password> command line parameters to the client to enable auto-join of servers.
+
+
+Misc.
+
+    * The game window is now re-sizable while in windowed mode.
+    * Full-screen resolution can now be changed in the options menu.
+    * Pressing alt+enter to toggle full-screen mode will no longer bring up the chat window.
+    * Fixed several bugs that would crash the game during world generation.
+
+
+
+Version 1.0.2 Changes-----------------------------------------------------------------------------------------
+
+Controls
+
+    * Right clicking and holding on a crafting recipe will craft multiple of the same item to a max of the stack and/or until you run out of materials.
+
+
+Items
+
+    * NEW ITEM : Sticky Bombs, Requires 5 Gel and a Bomb.
+    * Sand Duping bug fixed.
+    * Placing a bed far from the spawn no longer causes a player who has set their spawn there to crash on join.
+    * Mining stone and other hard ores make a 'tink' noise now.
+    * Hellstone and Obsidian now require at least a Demonite pick to gather.
+    * Sand no longer spawns within a certain distance of the spawn location, This should remove the chance of spawning in a desert with no wood to use.
+    * Hellstone now correctly takes as long to dig as meteor does.
+    * The clay pot item now has the correct size.
+
+
+Performance
+
+    * Frame-skip is now correctly ON by default for new players.
+    * Increased Client Side Multiplayer stability. Should resolve many crash causes.
+    * Corrected a bug where players would intermittently not take falling damage.
+    * The world file is now saved to a temporary file that is copied over to the actual save file. This prevents world corruption when saving is interrupted.
+    * Fixed a bug that disabled some error handling. Overall game stability should be improved.
+
+
+GUI
+
+    * The version number of the game now shows on the title screen.
+    * Typing numbers in chat no longer changes your selected item in your hotbar.
+
+
+Server
+
+    * Servers now listen to all IP addresses on the hosting PC, regardless of how many network connections are active.
+    * Typing "localhost" instead of your own local IP address will connect to your own same-PC server.
+    * The games default port is no longer ELEET (31337) it is now 7777.
+    * Client will now resolve a hostname into its IP address, for example, if randomsite.org ran a server, you could type randomsite.org as the IP address and be able to connect.
+
+
+
+Version 1.0.1 Changes-----------------------------------------------------------------------------------------
+
+Items
+
+    * Cobwebs now prevent falling damage correctly.
+    * Certain 'Dev only' items were removed, as they were for testing only.
+    * The dark outlines on player and armor sprites have been blended better.
+    * Torches now work correctly when being placed on wooden platforms.
+    * Spawning no longer destroys chests that are placed on ground that is removed due to spawn point clearing.
+    * Sand directly under a chest no longer falls due to gravity.
+
+
+NPCs
+
+    * Guide now explains the use of a hammer and its interactions with walls and placed objects.
+
+
+Crash Fixes
+
+    * Leaving the settings menu via the back button should longer crash.
+
+
+Performance
+
+    * Added a toggle for Frame skip, which can correct some slowdown issues on higher end computers.
+    * Optimized Single Player and Multiplayer.
+    * Players who haven't cheated will no longer be flagged as a cheater.
+
+
+Controls
+
+    * The Inventory button is now re-mappable. 
